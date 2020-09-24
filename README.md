@@ -45,3 +45,4 @@ Cornerstone-JS SDK 中的部分逻辑借鉴了 [Corn SDK](https://www.xiaolz.cn/
 - [tdm-gcc](https://jmeubank.github.io/tdm-gcc/)
 - [GN](https://gn.googlesource.com/gn/) & [Ninja](http://www.ninja-build.org/)
 - [CMake](https://cmake.org/)
+- [QuickJS](https://bellard.org/quickjs/)
